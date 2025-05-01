@@ -7,27 +7,38 @@
 <h3 align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</h3>
 
 ---
-<table>
-  <tr>
-    <td width="50%">
-      <div align="justify">
-        <h3>Hi there! I'm Laiz Verlane — a Junior Software Engineer.</h3>
-        Feel free to explore my profile and check out my projects!
-        <p>
-          🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
-          📊 Apaixonada por dados, BI, ciência e automações <br>
-          🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
-          💡 Foco em Ciência de Dados e Machine Learning
-        </p>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" /><br>
-      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div width=>
+    Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
+    
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/LaizVerlane)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LaizVerlane)
+
+    <p>
+      🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
+      📊 Apaixonada por dados, BI, ciência e automações <br>
+      🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
+      💡 Foco em Ciência de Dados e Machine Learning
+    </p>
+
+    
+  </div>
+  
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
+</div>
+---
+
+<div  align="center">
+  
+  <p>
+    🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
+    📊 Apaixonada por dados, BI, ciência e automações <br>
+    🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
+    💡 Foco em Ciência de Dados e Machine Learning
+  </p>
+</div>
 
 
 
