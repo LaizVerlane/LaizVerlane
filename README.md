@@ -45,6 +45,11 @@
 - 🔎 Detalhista e curiosa — adoro resolver problemas com dados
 
 ---
+![Português](https://img.shields.io/badge/Idioma-Português-brightgreen?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Idioma-Inglês-blue?style=for-the-badge)
+![Espanhol](https://img.shields.io/badge/Idioma-Espanhol-yellow?style=for-the-badge)
+
+---
 
 ## 📫 Onde me encontrar
 
