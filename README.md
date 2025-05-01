@@ -1,14 +1,52 @@
-<body style="line-height: 0.5;"> 
+<div align="center"> 
 <h1 align="center">
   <a href="https://github.com/LaizVerlane">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
   </a>
 </h1>
-
+  
 Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping
 ---
-uiyuyu
+
+</div>
+
+
+
+
+
+
+
+
+<div align="center"> 
+<h2>
+  <a href="https://github.com/LaizVerlane">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+  </a>
+</h2>
+  
+--- 
+### Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping
+
 ---
+
+</div>
+
+
+
+
+
+
+<div align="center"> <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" /></p>
+  
+--- 
+### Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping
+
+---
+
+</div>
+
+
+
 
 
 ## 📊 GitHub em Números
