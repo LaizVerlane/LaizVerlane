@@ -1,10 +1,18 @@
+<body style="line-height: 0.5;"> 
 <h1 align="center">
   <a href="https://github.com/LaizVerlane">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+   
   </a>
 </h1>
 
+tuyyu
 ---
+uiyuyu
+---
+
+
+## 📊 GitHub em Números
 ## 📊 GitHub em Números
 
 <div align="center">
@@ -62,7 +70,4 @@
 
 ---
 
-## 🧙 Terminal secreto
-
-```bash
-curl laizverlane.dev/hello
+</body>
