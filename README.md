@@ -1,4 +1,10 @@
 <h1 align="center">Olá! Eu sou a Laiz 👋</h1>
+<html lang=¨pt-br¨>
+<h1 align="center">
+  <a href="https://github.com/LaizVerlane">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
