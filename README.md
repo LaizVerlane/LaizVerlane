@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
   </a>
 </h1>
----
+
 
 ## 📊 GitHub em Números
 
