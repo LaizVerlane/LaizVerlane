@@ -3,6 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
   </a>
 </h1>
+---
+
+## 📊 GitHub em Números
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
+</div>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
@@ -30,16 +38,7 @@
 🔹 [🤖 Machine Learning com Python (modelo supervisionado)](https://github.com/LaizVerlane/ml-projeto)  
 🔹 [📦 Raspagem de Dados do Mercado Livre com Python](https://github.com/LaizVerlane/mercado-livre-scraper)
 
----
 
-## 📊 GitHub em Números
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
-</div>
-
----
 
 ## 💡 Curiosidades
 
