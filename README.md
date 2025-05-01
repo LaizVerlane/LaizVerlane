@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-Jr. RPA & Data Analyst | Python • Power BI • SQL • Automação de Processos • APIs • Web Scraping
+Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping
 ---
 uiyuyu
 ---
