@@ -1,33 +1,47 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&height=30&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
-  
-  --- 
-   ### Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping
-  
-  ---
-
 </div>
-
-
-
-
-
-## 📊 GitHub em Números
-## 📊 GitHub em Números
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
-</div>
-
-<p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
-📊 Apaixonada por dados, BI, ciência e automações <br>
-🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
-💡 Foco em Ciência de Dados e Machine Learning
-</p>
 
 ---
+
+<h3 align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</h3>
+
+---
+<table>
+  <tr>
+    <td width="50%">
+      <div align="justify">
+        <h3>Hi there! I'm Laiz Verlane — a Junior Software Engineer.</h3>
+        Feel free to explore my profile and check out my projects!
+        <p>
+          🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
+          📊 Apaixonada por dados, BI, ciência e automações <br>
+          🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
+          💡 Foco em Ciência de Dados e Machine Learning
+        </p>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" /><br>
+      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+  
+  
+
+
+---
+
+
+
+
+
+
 
 ## 🚀 Tecnologias & Ferramentas
 
