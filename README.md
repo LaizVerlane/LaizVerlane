@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-
+---
 ## 📊 GitHub em Números
 
 <div align="center">
