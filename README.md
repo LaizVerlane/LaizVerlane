@@ -13,6 +13,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LaizVerlane)
+  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
     <p>
       🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
@@ -30,30 +31,6 @@
 </div>
 
 ---
-
-<div  align="center">
-  
-  <p>
-    🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
-    📊 Apaixonada por dados, BI, ciência e automações <br>
-    🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
-    💡 Foco em Ciência de Dados e Machine Learning
-  </p>
-</div>
-
-
-
-  
-  
-
-
----
-
-
-
-
-
-
 
 ## 🚀 Tecnologias & Ferramentas
 
