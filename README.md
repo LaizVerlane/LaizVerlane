@@ -15,7 +15,7 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 
     
  <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=calm_pink" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 </div>
 
