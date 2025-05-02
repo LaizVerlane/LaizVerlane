@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</h3>
+#### <p align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</p>
 
 ---
 
