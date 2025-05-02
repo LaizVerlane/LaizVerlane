@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&height=30&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=e9d8d4&center=true&vCenter=true&width=500&height=30&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,20 +10,13 @@
 
 Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
 
-## 🚀 Tecnologias & Ferramentas
 
-- 💻 **Linguagens**: Python | SQL | R | Java | JavaScript | C#
-- 📊 **Análise de dados**: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
-- 🧠 **Data Science**: Machine Learning | Estatística | ETL | Web Scraping
-- ⚙️ **APIs e integração**: Bling | Laravel | Node.js | APIs REST
-- 🗃️ **Banco de Dados**: MySQL | PostgreSQL | SQLite
-- 🌐 **Front-end básico**: HTML | CSS | JavaScript
 
 
     
  <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=radical" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 </div>
 
 
