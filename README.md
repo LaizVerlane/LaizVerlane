@@ -7,23 +7,66 @@
 <h3 align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</h3>
 
 ---
-<div width=>
-    Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
+
+Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
     
+
+<details>
+  <summary>🚀 Technologies & Tools</summary>
+
+  ### 💻 Programming Languages
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+  ### 📊 Data Analysis
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+  ### 🧠 Data Science
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+  ### ⚙️ APIs & Integration
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)
+
+  ### 🗃️ Databases
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  ### 🌐 Front-end Basics
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LaizVerlane)
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
-    <p>
-      🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC - Indaiatuba) <br>
-      📊 Apaixonada por dados, BI, ciência e automações <br>
-      🌎 Monte Mor – SP | Disponível para estágio presencial (vespertino) <br>
-      💡 Foco em Ciência de Dados e Machine Learning
-    </p>
-
+  
     
-  </div>
+ 
   
  <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
