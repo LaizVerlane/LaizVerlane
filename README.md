@@ -119,3 +119,6 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 
 ---
 
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/LaizVerlane/LaizVerlane/blob/output/github-contribution-grid-snake.svg)
