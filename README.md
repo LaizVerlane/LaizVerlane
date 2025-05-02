@@ -9,6 +9,17 @@
 ---
 
 Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
+
+## 🚀 Tecnologias & Ferramentas
+
+- 💻 **Linguagens**: Python | SQL | R | Java | JavaScript | C#
+- 📊 **Análise de dados**: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
+- 🧠 **Data Science**: Machine Learning | Estatística | ETL | Web Scraping
+- ⚙️ **APIs e integração**: Bling | Laravel | Node.js | APIs REST
+- 🗃️ **Banco de Dados**: MySQL | PostgreSQL | SQLite
+- 🌐 **Front-end básico**: HTML | CSS | JavaScript
+
+
     
  <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=radical" />
