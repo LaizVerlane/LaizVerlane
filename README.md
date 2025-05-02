@@ -104,14 +104,6 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 🔹 [📦 Raspagem de Dados do Mercado Livre com Python](https://github.com/LaizVerlane/mercado-livre-scraper)
 
 
-
-## 💡 Curiosidades
-
-- 📚 Estudando diariamente para a prova de transferência externa da USP  
-- 🌐 Fluente em Espanhol e com inglês avançado  
-- 🧠 Gosto de transformar dados em decisões estratégicas  
-- 🔎 Detalhista e curiosa — adoro resolver problemas com dados
-
 ---
 ![Português](https://img.shields.io/badge/Idioma-Português-brightgreen?style=for-the-badge)
 ![Inglês](https://img.shields.io/badge/Idioma-Inglês-blue?style=for-the-badge)
@@ -127,4 +119,3 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 
 ---
 
-</body>
