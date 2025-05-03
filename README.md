@@ -75,6 +75,11 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 - 🌐 **Front-end básico**: HTML | CSS | JavaScript
 
 ---
+## 📌 Projetos Recentes
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## 🌟 Projetos em Destaque
 
