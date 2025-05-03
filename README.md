@@ -15,7 +15,7 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 
     
  <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=midnight-purple" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 </div>
 
@@ -60,44 +60,16 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
-
-
 ---
-
-## 🚀 Tecnologias & Ferramentas
-
-- 💻 **Linguagens**: Python | SQL | R | Java | JavaScript | C#
-- 📊 **Análise de dados**: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
-- 🧠 **Data Science**: Machine Learning | Estatística | ETL | Web Scraping
-- ⚙️ **APIs e integração**: Bling | Laravel | Node.js | APIs REST
-- 🗃️ **Banco de Dados**: MySQL | PostgreSQL | SQLite
-- 🌐 **Front-end básico**: HTML | CSS | JavaScript
-
----
-## 📌 Projetos Recentes
-
-<img src="https://github.com/LaizVerlane/LaizVerlane/blob/main/metrics.svg" alt="Projetos Recentes" />
-
-
-## 🌟 Projetos em Destaque
-
-🔹 [🔍 Dashboard de Vendas com Bling + Power BI](https://github.com/LaizVerlane/bling-powerbi)  
-🔹 [🤖 Machine Learning com Python (modelo supervisionado)](https://github.com/LaizVerlane/ml-projeto)  
-🔹 [📦 Raspagem de Dados do Mercado Livre com Python](https://github.com/LaizVerlane/mercado-livre-scraper)
-
-
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
-
 
 ---
 
 ## 🐍 Snake eating my contributions
 
 ![snake gif](https://github.com/LaizVerlane/LaizVerlane/blob/output/github-snake-dark.svg)
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
