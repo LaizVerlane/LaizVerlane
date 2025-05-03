@@ -7,6 +7,13 @@
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaizVerlane&theme=rose_pine&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaizVerlane&theme=rose_pine&bg_color=191724&color=e0def4&line=9ccfd8&point=ea9a97&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
+
+</div>
+
 
  <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" />
