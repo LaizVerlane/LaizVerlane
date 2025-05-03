@@ -4,11 +4,11 @@
 
 ---
 
-#### <p align="center">Jr. RPA & Data Analyst | Python • Power BI • SQL • APIs • Web Scraping</p>
+#### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
 ---
 
-Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!
+
 
 
 
