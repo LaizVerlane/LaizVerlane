@@ -77,9 +77,8 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 ---
 ## 📌 Projetos Recentes
 
-<!--START_SECTION:activity-->
+<img src="https://github.com/LaizVerlane/LaizVerlane/blob/main/metrics.svg" alt="Projetos Recentes" />
 
-<!--END_SECTION:activity-->
 
 ## 🌟 Projetos em Destaque
 
