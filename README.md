@@ -62,8 +62,13 @@
 
 ![snake gif](https://github.com/LaizVerlane/LaizVerlane/blob/output/github-snake-dark.svg)
 
+<div align="right">
+  
+  [![Click here to reveal the secret](https://img.shields.io/badge/-Click%20here%20to%20reveal%20the%20secret-blue?style=flat&logo=link&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+    
+</div>
 
-[Click here to reveal the secret](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 
 
