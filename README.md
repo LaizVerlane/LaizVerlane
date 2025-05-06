@@ -7,10 +7,10 @@
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
 ---
-
-<img align="right" right="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> </br>
-<img align="right" right="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
-
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+</div>
 
 💻 Linguagens: Python | SQL | R | Java | JavaScript | C#
 📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
