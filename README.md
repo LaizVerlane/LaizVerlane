@@ -7,12 +7,22 @@
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
 ---
+  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> </br>
+  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 
- <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=10000&color=B76E79&center=true&vCenter=true&width=500&height=30&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /></br>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
- </div>
+
+💻 Linguagens: Python | SQL | R | Java | JavaScript | C#
+📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
+🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping
+⚙️ APIs e integração: Bling | Laravel | Node.js | APIs REST
+🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite
+🌐 Front-end básico: HTML | CSS | JavaScript
+
+
+
+
+
+
 
 ## 📫 How to find me
 
