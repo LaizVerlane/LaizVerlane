@@ -7,17 +7,19 @@
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
 ---
+💻 Linguagens: Python | SQL | R | Java | JavaScript | C# </br>
+📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib </br>
+🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping </br>
+⚙️ APIs e integração: Bling | Laravel | Node.js | APIs REST </br>
+🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite </br>
+🌐 Front-end básico: HTML | CSS | JavaScript </br>
+
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 </div>
 
-💻 Linguagens: Python | SQL | R | Java | JavaScript | C#
-📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib
-🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping
-⚙️ APIs e integração: Bling | Laravel | Node.js | APIs REST
-🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite
-🌐 Front-end básico: HTML | CSS | JavaScript
+
 
 
 </br></br></br></br>
