@@ -11,7 +11,7 @@
 
 
 <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
-
+Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</br></br>
 <strong> 📫 How to find me </strong> </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
