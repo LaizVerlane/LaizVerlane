@@ -12,11 +12,12 @@
 
 <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 
-💻 Linguagens: Python | SQL | R | Java | JavaScript | C# </br>
-📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib </br>
-🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping </br>
-🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite </br>
-🌐 Front-end básico: HTML | CSS | JavaScript </br>
+<strong> 🚀 Technologies & Tools </strong>  </br>
+💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
+📊 Data Analysis: Power BI | Pandas | NumPy </br>
+🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
+🗃️ Databases: MySQL | PostgreSQL | SQLite </br>
+🌐 Basic Front-end: HTML | CSS | JavaScript 
 
 
 
