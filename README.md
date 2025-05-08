@@ -25,9 +25,9 @@ Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore 
 </br></br>
 
 
-<h2>🚀 Technologies & Tools </h2>
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+<h2 align="left">🚀 Technologies & Tools </h2>
 💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
 📊 Data Analysis: Power BI | Pandas | NumPy </br>
 🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
