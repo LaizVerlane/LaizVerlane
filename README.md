@@ -10,7 +10,7 @@
 ---
 
 <strong> 📫 How to find me </strong>
-<img align="right" height="185em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-<img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 💻 Linguagens: Python | SQL | R | Java | JavaScript | C# </br>
 📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib </br>
 🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping </br>
