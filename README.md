@@ -12,21 +12,6 @@
 
 <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 
-<strong> 🚀 Technologies & Tools </strong>  </br>
-💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
-📊 Data Analysis: Power BI | Pandas | NumPy </br>
-🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
-🗃️ Databases: MySQL | PostgreSQL | SQLite </br>
-🌐 Basic Front-end: HTML | CSS | JavaScript 
-
-
-
-</br></br>
-
-
-
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
-
 <strong> 📫 How to find me </strong> </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
@@ -34,6 +19,22 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=laizVerlane&color=006bed)
+
+
+
+</br></br>
+
+
+<h2>🚀 Technologies & Tools </h2>
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+
+💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
+📊 Data Analysis: Power BI | Pandas | NumPy </br>
+🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
+🗃️ Databases: MySQL | PostgreSQL | SQLite </br>
+🌐 Basic Front-end: HTML | CSS | JavaScript 
+
+
 
 
 
