@@ -3,7 +3,7 @@
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
 
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
@@ -18,7 +18,7 @@
 🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite </br>
 🌐 Front-end básico: HTML | CSS | JavaScript </br>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+![](https://komarev.com/ghpvc/?username=laizVerlane&color=006bed)
 
 <p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 
