@@ -3,6 +3,7 @@
 </div>
 
 ---
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects!</p>
 
