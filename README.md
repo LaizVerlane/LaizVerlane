@@ -9,26 +9,28 @@
 
 ---
 
-<strong> 📫 How to find me </strong>
+
 <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
-
-</br></br></br></br></br>
-
-
-
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 💻 Linguagens: Python | SQL | R | Java | JavaScript | C# </br>
 📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib </br>
 🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping </br>
 ⚙️ APIs e integração: Bling | Laravel | Node.js | APIs REST </br>
 🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite </br>
 🌐 Front-end básico: HTML | CSS | JavaScript </br>
+
+
+
+</br>
+
+
+
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+
+<strong> 📫 How to find me </strong> </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=laizVerlane&color=006bed)
 
