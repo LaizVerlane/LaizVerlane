@@ -15,7 +15,6 @@
 💻 Linguagens: Python | SQL | R | Java | JavaScript | C# </br>
 📊 Análise de dados: Power BI | Pandas | NumPy | Scikit-Learn | Matplotlib </br>
 🧠 Data Science: Machine Learning | Estatística | ETL | Web Scraping </br>
-⚙️ APIs e integração: Bling | Laravel | Node.js | APIs REST </br>
 🗃️ Banco de Dados: MySQL | PostgreSQL | SQLite </br>
 🌐 Front-end básico: HTML | CSS | JavaScript </br>
 
