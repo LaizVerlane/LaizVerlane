@@ -10,6 +10,16 @@
 ---
 
 
+## 📫 How to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/laiz-soares-costa-verlane-296804276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:laizsoarescosta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 
 ## 🌟 Featured Projects <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
