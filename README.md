@@ -10,20 +10,16 @@
 ---
 
 
-## 📫 How to find me
+<strong> 📫 How to find me </strong> </br>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/laiz-soares-costa-verlane-296804276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:laizsoarescosta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
 
-## 🌟 Featured Projects <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 
+## 🌟 Featured Projects 
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
 <div align="center">
 
 <table>
@@ -76,7 +72,8 @@
 </br></br></br>
 
 
-## 🚀 Technologies & Tools <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+## 🚀 Technologies & Tools 
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
 
 
 💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
@@ -96,13 +93,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=laizVerlane&color=006bed)
-<strong> 📫 How to find me </strong> </br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizVerlane)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
-
-
 
 
 ![snake gif](https://github.com/LaizVerlane/LaizVerlane/blob/output/github-snake-dark.svg)
