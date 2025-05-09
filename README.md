@@ -106,6 +106,7 @@ I have experience with programming, data analysis, automation, and dashboard cre
   </a>
 </div>
 
+[🌀](https://github.com/LaizVerlane/segredo)
 
 
 
