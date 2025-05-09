@@ -91,10 +91,11 @@
 
 
 <div align="right">
-  
-  [![Click here to reveal the secret](https://img.shields.io/badge/-Click%20here%20to%20reveal%20the%20secret-blue?style=flat&logo=link&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-    
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/badge/-Secret%20Link-%23007acc?style=flat&logo=link&logoColor=white"/>
+  </a>
 </div>
+
 
 
 
