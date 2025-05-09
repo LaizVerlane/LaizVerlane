@@ -8,12 +8,6 @@
 #### <p align="center">Hi there! I'm Laiz Verlane — a Junior Software Engineer. Feel free to explore my profile and check out my projects! </p> 
 
 ---
-Hi! I'm Laiz Verlane, a student of Systems Analysis and Development at FATEC.
-I have experience with programming, data analysis, automation, and dashboard creation. I'm passionate about solving problems through technology and always eager to learn and take on new challenges.
-
-
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
-
 
 <h3>📫 How to find me</h3>
 
@@ -26,6 +20,13 @@ I have experience with programming, data analysis, automation, and dashboard cre
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
+
+Hi! I'm Laiz Verlane, a student of Systems Analysis and Development at FATEC.
+I have experience with programming, data analysis, automation, and dashboard creation. I'm passionate about solving problems through technology and always eager to learn and take on new challenges.
+
+
 
 
 
