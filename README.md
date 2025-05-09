@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=B76E79&center=true&vCenter=true&width=500&height=30&lines=Ol%C3%A1,+Eu+sou+a+Laiz+Verlane" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3000&color=B76E79&center=true&vCenter=true&width=500&height=30&lines=Hi,+I'm+Laiz+Verlane!" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,8 @@
 
 ---
 
-
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
+</br></br></br></br>
 <strong> 📫 How to find me </strong> </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-soares-costa-296804276/)
@@ -17,9 +18,29 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizsoarescosta@gmail.com)
 
 
+</br></br></br>
 
-## 🌟 Featured Projects 
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=LaizVerlane&show_icons=true&theme=rose" /> 
+
+
+
+
+## 🚀 Technologies & Tools 
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
+
+
+💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
+📊 Data Analysis: Power BI | Pandas | NumPy </br>
+🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
+🗃️ Databases: MySQL | PostgreSQL | SQLite </br>
+🌐 Basic Front-end: HTML | CSS | JavaScript 
+
+
+
+
+
+</br></br></br></br>
+
+
 <div align="center">
 
 <table>
@@ -58,37 +79,6 @@
 </table>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-</br></br></br>
-
-
-## 🚀 Technologies & Tools 
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizVerlane&layout=compact&theme=rose" />
-
-
-💻 Languages: Python | SQL | R | Java | JavaScript | C# | PHP </br>
-📊 Data Analysis: Power BI | Pandas | NumPy </br>
-🧠 Data Science: Machine Learning | Statistics | ETL | Web Scraping </br>
-🗃️ Databases: MySQL | PostgreSQL | SQLite </br>
-🌐 Basic Front-end: HTML | CSS | JavaScript 
-
-
-
-
-
-</br></br></br></br>
-
-
 
 
 
