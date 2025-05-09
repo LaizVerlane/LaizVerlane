@@ -105,7 +105,7 @@
 
 
 
-![snake gif](https://raw.githubusercontent.com/LaizVerlane/LaizVerlane/output/github-snake-dark.svg)
+![snake gif](https://github.com/LaizVerlane/LaizVerlane/blob/output/github-snake-dark.svg)
 
 
 <div align="right">
